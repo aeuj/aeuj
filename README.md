@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ae.uj🍀%20&height=200&fontSize=100&textBg=true)
 <div align="center">
-	<strong> 사용 가능한 기술 </strong>
+	<strong> 사용한 기술 repo </strong>
 </div>
 <br/>
 
