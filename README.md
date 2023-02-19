@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuary-0769AD?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=CSS3&logoColor=white" />
-	
+	<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=CSS3&logoColor=white" />
 </div>
 <br/>
 
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=CSS3&logoColor=white" />
 </div>
