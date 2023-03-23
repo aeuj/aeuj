@@ -41,10 +41,21 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=CSS3&logoColor=white" />
+
 </div>
 <br/>
+
+<div align="center">
+	<strong> SW Test(..) tool </strong>
+</div>
+<br/>
+<div align="center">
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=CSS3&logoColor=white" />
+</div>
+<br/>
+
 
 <!-- git 위젯 -->
 <div align="center">
